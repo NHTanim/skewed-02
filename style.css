@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #181818;
+}
+.skew{
+    transform: skew(0deg,-10deg);
+    background: #541A13;
+    text-align: center;
+    margin-top: -200px;
+    padding: 200px 0;
+
+}
+.content{
+    color: #fff;
+    transform: skew(0deg,10deg);
+    padding-top: 60px;
+    font-family: sans-serif;
+}
+.content h1{
+    font-size: 40px;
+}
+.content p{
+    text-align: center;
+}
+.content_2{
+    color: #fff;
+    text-align: center;
+    padding-top: 60px;
+    font-family: sans-serif;
+    padding-top: 60px;
+    font-family: sans-serif;
+}
